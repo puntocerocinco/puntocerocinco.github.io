@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>etimología on P05 opinión.actualidad.análisis</title>
+    <link>https://www.example.com/tags/etimolog%C3%ADa/</link>
+    <description>Recent content in etimología on P05 opinión.actualidad.análisis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sat, 12 Sep 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://www.example.com/tags/etimolog%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Las palabras comunes entre el turco y castellano</title>
+      <link>https://www.example.com/post/2020009/</link>
+      <pubDate>Sat, 12 Sep 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.example.com/post/2020009/</guid>
+      <description>La etimología siempre me parece una disciplina muy interesante y entretenida. Dado que los lenguajes son como organismos vivos, sus componentes podrían mostrarnos la evolución social y cultural de una sociedad. En este sentido, es posible decir que la etimología es como un microscopio que revela los códigos que se escribieron en el ADN de estos organismos. Por lo tanto, la existencia de palabras de diferentes orígenes (extranjerismo) señala a un encuentro e intercambio cultural, que ocurre en la mayoría por comercio o guerra.</description>
+    </item>
+    
+  </channel>
+</rss>
