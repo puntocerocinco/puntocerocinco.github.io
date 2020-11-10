@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on P05 opinión.actualidad.análisis</title>
-    <link>https://puntocerocinco.github.io/author/</link>
+    <link>https://p05.red/author/</link>
     <description>Recent content in Authors on P05 opinión.actualidad.análisis</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language><atom:link href="https://puntocerocinco.github.io/author/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-es</language><atom:link href="https://p05.red/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>puntocerocinco</title>
-      <link>https://puntocerocinco.github.io/author/puntocerocinco/</link>
+      <link>https://p05.red/author/puntocerocinco/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://puntocerocinco.github.io/author/puntocerocinco/</guid>
+      <guid>https://p05.red/author/puntocerocinco/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
     </item>
